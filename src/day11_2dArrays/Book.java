@@ -1,4 +1,4 @@
-package day12_2dArrays;
+package day11_2dArrays;
 
 public class Book {
 
