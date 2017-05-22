@@ -7,10 +7,11 @@ public class Solution {
 	public static void main(String[] args) {
 		int n = 0;
 		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter an Integer");
 		n = scan.nextInt();
 		scan.close();
-
-		System.out.println(factorial(n));
+		
+		System.out.println("The Factorial of " + n + " is: " + factorial(n));
 
 	}
 
